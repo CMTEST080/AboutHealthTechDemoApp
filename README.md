@@ -1,2 +1,6 @@
-# AboutHealthTechDemoApp
-HealthTechDemoAppについて
+# HealthTechDemoAppについて
+
+HealthTechDemoAppは、ヘルスコネクトを使用してヘルスケア情報を可視化するアプリになります。
+
+ヘルスコネクトから受け取った情報の使用にあたっては、限定的な使用の要件を含め、ヘルスコネクトの権限に関するポリシーに準拠します。
+
