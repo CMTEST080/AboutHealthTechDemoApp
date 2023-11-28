@@ -5,6 +5,7 @@ HealthTechDemoAppは、ヘルスコネクトを使用してヘルスケア情報
 ヘルスコネクトから受け取った情報の使用にあたっては、限定的な使用の要件を含め、ヘルスコネクトの権限に関するポリシーに準拠します。
 
 限定的な使用の要件については、こちらを参照してください。
+
 https://support.google.com/googleplay/android-developer/answer/9888170?sjid=12209913446752673913-AP#ahp
 
 
